@@ -1,3 +1,2 @@
 Hello Git!
-This is version 2.
-I love Git.
+Feature branch here!
